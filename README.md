@@ -1,2 +1,2 @@
-# Multiple-Regression
-This contain the analysis of multiple regression 
+# HANDS ON
+This contain the analysis of regression and Classification 
